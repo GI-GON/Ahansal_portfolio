@@ -5,9 +5,9 @@ export const PROFILE: Profile = {
   title: "Ingénieur Cloud & DevOps",
   bio: "Ingénieur Cloud basé à Rabat, passionné par l'architecture Azure, l'automatisation et les pratiques DevOps. J'accompagne les entreprises dans leur transformation numérique en concevant des infrastructures scalables, sécurisées et résilientes.",
   location: "Rabat, Maroc",
-  email: "contact@ahansal.dev",
+  email: "Abdelkarim@ahansal.click",
   linkedin: "linkedin.com/in/ahansal-abdelkarim",
-  github: "github.com/ahansal",
+  github: "github.com/GI-GON",
   // Avatar généré avec les initiales pour un look pro par défaut
   avatarUrl: "https://ui-avatars.com/api/?name=Ahansal+Abdelkarim&background=1e293b&color=3b82f6&size=256&font-size=0.33&bold=true"
 };
@@ -18,7 +18,7 @@ export const PROJECTS: Project[] = [
     title: 'Architecture Microservices Azure',
     description: 'Déploiement et orchestration d\'une application e-commerce sur Azure Kubernetes Service (AKS) avec pipeline CI/CD complet via Azure DevOps.',
     technologies: ['Azure AKS', 'Terraform', 'Docker', 'Azure DevOps'],
-    imageUrl: 'https://picsum.photos/800/600?random=10',
+    imageUrl: 'https://learn.microsoft.com/en-us/samples/azure-samples/serverless-microservices-reference-architecture/serverless-microservices-reference-architecture/media/macro-architecture.png',
     link: 'https://mon-projet-cloud.azurewebsites.net',
     github: 'https://github.com'
   },
